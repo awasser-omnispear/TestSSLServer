@@ -1,0 +1,14 @@
+{
+  "name": "dummyserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "keygen": "node keygen.js"
+  },
+  "dependencies": {
+    "node-forge": "^0.10.0",
+    "ws": "^7.4.4"
+  }
+}
